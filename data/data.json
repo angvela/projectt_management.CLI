@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "name": "Alex",
+            "projects": [
+                "CLI Tool"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "CLI Tool",
+            "owner": "Alex",
+            "tasks": [
+                {
+                    "title": "Write Code",
+                    "completed": true
+                },
+                {
+                    "title": "Write Code",
+                    "completed": false
+                }
+            ]
+        }
+    ]
+}
