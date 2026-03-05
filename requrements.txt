@@ -1,0 +1,8 @@
+# Project Management CLI Dependencies
+
+# Pretty printing and CLI enhancements
+rich>=13.0.0
+
+# For testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
